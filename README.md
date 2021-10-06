@@ -4,3 +4,5 @@ Fixes the client rendering and local server using the same counter for entity id
 
 With this fix [2No2Name's Wireless Redstone](https://www.youtube.com/watch?v=hr-twzxs6FM) works in single player reliably,
 just as it works in multiplayer.
+
+Fixes https://bugs.mojang.com/browse/MC-238384
